@@ -1,0 +1,25 @@
+.My-Button{
+    color: red;
+}
+#Click{
+    color: blueviolet;
+}
+.Bag{
+background-color: rgb(128, 237, 128);
+border: none;
+padding: 5px 15px;
+border-radius: 15px;
+
+}
+.WishList{
+    padding: 5px 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+.Add{
+    background-color: rgb(128, 237, 128);
+border: none;
+padding: 5px 15px;
+border-radius: 15px;
+}
